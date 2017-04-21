@@ -1,0 +1,9 @@
+body {
+  color: #fff;
+  background-color: #586069;
+}
+.btn-default {
+  background: #000;
+  border-color: #fff;
+  color: #fff;
+}
